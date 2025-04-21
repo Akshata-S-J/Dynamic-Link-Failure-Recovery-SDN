@@ -1,4 +1,4 @@
-#CODE TO CONSTRUCT TOPOLOGY
+
 
 from mininet.cli import CLI
 from mininet.log import setLogLevel
